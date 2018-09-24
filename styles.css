@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    background-image: url("dog in blue house.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.content {
+	padding-top: 10rem;
+	text-align: center;
+} 
+
+.btn-lg {
+	padding: .9rem 3rem;
+    font-size: 1.75rem;
+    line-height: 1.5;
+    border-radius: .4rem;
+}
+
+hr {
+    width: 250px;
+}
+
+.content-text {  
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #3C7CC4;
+}
+
+.content-header {
+    color: #F2FCFB;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 10px 13px rgba(0,0,0,0.5),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
